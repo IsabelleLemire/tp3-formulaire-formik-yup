@@ -1,6 +1,5 @@
 import React from 'react';
 import { Formik, Form, ErrorMessage } from 'formik';
-import * as Yup from 'yup'; // Assurez-vous que vous importez Yup correctement
 import Row from 'react-bootstrap/Row';
 import Button from 'react-bootstrap/Button';
 import Input from './Input';
